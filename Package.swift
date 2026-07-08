@@ -14,7 +14,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "DynamsoftBarcodeReaderBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-barcodereader-bundle-ios-11.4.3000-xcframework.zip", checksum: "b2d7e3319905ce44b105682b614b51d5591127bff48b0132b3fcc32d27235431"
+            name: "DynamsoftBarcodeReaderBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-barcodereader-bundle-ios-11.4.3000-xcframework.zip", checksum: "b2d7e3319905ce44b105682b614b51d5591127bff48b0132b3fcc32d27235431 test"
         ),
         .target(
             name: "DynamsoftBarcodeReader",
